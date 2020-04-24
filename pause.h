@@ -1,0 +1,1 @@
+int pause(SDL_Surface *ecran);
